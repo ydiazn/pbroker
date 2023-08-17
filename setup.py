@@ -10,7 +10,7 @@ setup(
     license='LICENSE.txt',
     packages=find_packages(include=['pbroker']),
     install_requires=[
-        'pika==1.2',
+        'pika==1.3.2',
     ],
     test_suite='tests',
     zip_safe=False
